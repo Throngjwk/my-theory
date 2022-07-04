@@ -62,6 +62,8 @@ var init = () => {
             ]
         })
     });
+
+    popup.show();
 }
 
 var getQuaternaryEntries = () => {
